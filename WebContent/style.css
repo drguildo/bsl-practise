@@ -1,0 +1,31 @@
+body {
+  text-align: center;
+}
+
+div#answer {
+  position: relative;
+  display: inline;
+}
+
+.imgoverlay {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  margin: 10px;
+}
+
+p#correction {
+  font-size: 24pt;
+}
+
+#letter {
+    background-color: #ccc;
+    font-size: 24pt;
+    border: 1px solid #000;
+    margin: 10px;
+}
+
+#buttons {
+  margin-left: 10%;
+  margin-right: 10%;
+}
